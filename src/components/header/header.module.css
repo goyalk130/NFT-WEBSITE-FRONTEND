@@ -1,0 +1,15 @@
+.header{
+    position: fixed;
+    height: 90px;
+    width: 100vw;
+    background-color: aquamarine;
+}
+.back{
+    background-color: blue;
+}
+.header-list{
+    display: flex;
+}
+.list-item{
+    display: inline-block;
+}
